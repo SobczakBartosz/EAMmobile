@@ -15,6 +15,7 @@ Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		EAMmobile\EAMmobile\EAMmobile.projitems*{26e2d0e7-4b2a-4e11-aa73-e09b3a51defd}*SharedItemsImports = 4
 		EAMmobile\EAMmobile\EAMmobile.projitems*{3f21733c-25b8-4e78-a449-f4da32ef3e09}*SharedItemsImports = 4
+		EAMmobile\EAMmobile\EAMmobile.projitems*{6a8901a5-af31-4e8c-9511-f4fe3136094b}*SharedItemsImports = 4
 		EAMmobile\EAMmobile\EAMmobile.projitems*{7802f23b-b9a3-4cf3-afa4-0affd548cc7d}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
